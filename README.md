@@ -1,2 +1,2 @@
-# MIT_License
+# MIT License
 An MIT License for the use of the author of this repository
